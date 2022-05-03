@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6456-51F7
+
+ Directory of C:\Users\HP\Desktop\h
+
+03-05-2022  13:14    <DIR>          .
+03-05-2022  13:14    <DIR>          ..
+03-05-2022  13:14                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,003,130,880 bytes free
